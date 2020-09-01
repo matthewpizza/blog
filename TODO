@@ -1,0 +1,7 @@
+Make a real www blog dot com:
+
+* Use [marked](https://github.com/markedjs/marked) for post markdown guts
+    * Something for yaml front matter, maybe regex? maybe yaml pacakage?
+* [Preact](https://preactjs.com/) + [htm](https://www.npmjs.com/package/htm)
+* [11ty](https://www.11ty.dev/) + [Netlify](https://www.netlify.com/)
+* Lazy load them dang large images
